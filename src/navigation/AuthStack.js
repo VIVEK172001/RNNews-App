@@ -15,9 +15,6 @@ import OnboardingScreen from  "../screens/OnboardingScreen";
 import ForTab from "../ForTab";
 import AsyncStorage from "@react-native-community/async-storage";
 
-
-
-
 const Stack=createStackNavigator();
 const Drawer = createDrawerNavigator();
 
