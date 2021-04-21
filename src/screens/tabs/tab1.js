@@ -25,20 +25,38 @@ const Tab1=()=>{
   }
 
   const fetchDetails = async () => {
-    try {
-       const {data} = await Axios.get(URL);
+     Axios.get(URL)
+    .then(function (response) {
+       const {data} = response;
        const details = data;
-
        setDetails(details)
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
+    // try {
+     
+    //    const {data} = await Axios.get(URL);
+    //    const details = data;
 
-    } catch (error) {
-      console.log(error)
-    }
+    //    setDetails(details)
+
+    // } catch (error) {
+    //   console.log(error)
+    // }
   }
    
   useEffect(()=>{
     fetchDetails()
   }, [])
+
+  // useEffect(() => {
+  //   const interval = setInterval(() => {
+  //     console.log('Five Seconds!');
+  //   }, 5000);
+  //   fetchDetails()
+  //   return ()=> clearInterval(interval);
+  // }, []);
 
   if (!details) {
     return (
