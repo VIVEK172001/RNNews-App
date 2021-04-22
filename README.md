@@ -4,12 +4,6 @@
 
 In this digital world, no one has time for reading newspaper. How can one be updated about current affairs and what happens in this world now? So here where this app comes into the picture. You can use this app to know latest news.
 
-## *Contributors*
-- [Ruchit Kalathiya (19IT051)](https://github.com/ruchitkalathiya)
-
-
-- [Vivek mandani (19IT062)](https://github.com/VIVEK172001)
-
 
 ## *Brief overview*
 
