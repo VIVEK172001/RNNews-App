@@ -65,7 +65,7 @@ In the main page user finds little drawer button on top of the left side. By cli
 
 ## *Important URL*
 
-[https://github.com/ruchitkalathiya/RNNews-App](https://github.com/ruchitkalathiya/RNNews-App) [GitHub]
+
 
 ## *Conclusion*
 
