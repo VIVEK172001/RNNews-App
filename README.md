@@ -65,7 +65,7 @@ In the main page user finds little drawer button on top of the left side. By cli
 
 ## *Important URL*
 
-
+https://rnnewsappvbmit.blogspot.com/2021/04/blog-post.html [Blog]
 
 ## *Conclusion*
 
